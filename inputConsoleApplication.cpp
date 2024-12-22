@@ -1,6 +1,7 @@
 #include <iostream>
 
 //First Function, with a string length of 5
+//Using adminMsg as an argument to feed the functions
 void fiveLength (const std::string adminMsg) {
     std::string inputOne;
     std::string inputTwo;
