@@ -1,0 +1,4 @@
+# ninja log v6
+2	220	7566002395898623	build.ninja	dc2b4e172e35b829
+13	245	7559115392089915	CMakeFiles/CSC450_CTA2.dir/inputConsoleApplication.cpp.obj	67ce1488533f8f0f
+246	298	7559115394417619	CSC450_CTA2.exe	f4ed84c785be26cf
